@@ -1,4 +1,10 @@
-## Hi there 👋
+# Stephen Cho
+
+**AI Governance · Agentic Workflows · Risk & Capital Markets**
+
+## Resume
+
+[View PDF](./resume/Stephen_Cho_Resume.pdf) · [Download Word](./resume/Stephen_Cho_Resume.docx)
 
 <!--
 **quantchoai/quantchoai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
