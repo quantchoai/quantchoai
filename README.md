@@ -1,10 +1,12 @@
 # Stephen Cho
 
-**AI Governance · Agentic Workflows · Risk & Capital Markets**
+**AI Systems Architecture · Agentic Workflows · Governance · Technical Operations**
 
-## Resume
+## Resumes
 
-[View PDF](./resume/Stephen_Cho_Resume.pdf) · [Download Word](./resume/Stephen_Cho_Resume.docx)
+[AI Systems / Bay Area PDF](./resume/Stephen_Cho_AI_Systems_Resume.pdf) · [AI Systems / Bay Area Word](./resume/Stephen_Cho_AI_Systems_Resume.docx)
+
+[AI Governance / Capital Markets PDF](./resume/Stephen_Cho_Resume.pdf) · [AI Governance / Capital Markets Word](./resume/Stephen_Cho_Resume.docx)
 
 <!--
 **quantchoai/quantchoai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
